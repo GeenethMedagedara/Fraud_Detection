@@ -12,10 +12,10 @@ This project is an AI-powered fraud detection system that identifies fraudulent 
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#setup--installation)
+- [Installation](#installation)
 - [How This Works](#how-this-works)
 - [Why Built](#why-this-is-built)
-- [Screenshots]()
+- [Screenshots](#screenshots)
 
 ### Features:
 
