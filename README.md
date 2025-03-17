@@ -1,6 +1,6 @@
 # Fraud Detection in Financial Transactions
 
-img
+![Screenshot 2025-03-17 190715](https://github.com/user-attachments/assets/b4c8367e-1162-4d88-8414-9f6c51122a6c)
 
 ---
 
@@ -55,7 +55,7 @@ npm install
 
 Run the two notebooks eda_and_preprocessing.ipynb and modeling_and_evaluation.ipynb respectively 
 
-img
+![final](https://github.com/user-attachments/assets/7867281b-26ca-4da0-b214-fb78fa3c105d)
 
 4. Run the App
 ```
@@ -98,3 +98,15 @@ In the frontend, the user can enter the values of a transaction, and whether the
 I built this project to learn about how to work with problems regarding fraud detection and how to tackle the class imbalance problem, creating new features to increase model performance and utilize different models to predict a fraud from a legit while tuning a model to use the optimum performance.
 
 ## Screenshots
+
+SHAP Explainability for XGBoost
+
+![outputxgshap](https://github.com/user-attachments/assets/a1d29014-ead9-4121-9c46-80ea94254998)
+
+Feature Importance - Isolation Forest
+
+![outputisolationforest](https://github.com/user-attachments/assets/2e7c6232-1af6-4098-b90b-17d3afb99160)
+
+Feature Importance - Random Forest
+
+![outputrandm](https://github.com/user-attachments/assets/52907e38-765a-4d19-be13-69b3fe5aef17)
