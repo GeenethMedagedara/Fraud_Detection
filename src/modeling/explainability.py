@@ -1,3 +1,7 @@
+"""
+Handles the prediction and SHAP explanation generation.
+"""
+
 import shap
 import numpy as np
 import matplotlib.pyplot as plt

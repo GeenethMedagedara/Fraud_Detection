@@ -1,3 +1,7 @@
+"""
+Handles the encoding of categorical features using different strategies.
+"""
+
 from sklearn.preprocessing import LabelEncoder
 from abc import ABC, abstractmethod
 

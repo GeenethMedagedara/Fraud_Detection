@@ -1,3 +1,7 @@
+"""
+Handles the XGBoost model training, prediction, evaluation, and saving.
+"""
+
 import joblib
 from xgboost import XGBClassifier
 from sklearn.metrics import classification_report

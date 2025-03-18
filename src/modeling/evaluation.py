@@ -1,3 +1,7 @@
+"""
+Handles the prediction and SHAP explanation generation.
+"""
+
 from sklearn.metrics import precision_score, recall_score, f1_score, confusion_matrix, ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
 from abc import ABC, abstractmethod

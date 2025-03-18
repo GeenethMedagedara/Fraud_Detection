@@ -1,3 +1,7 @@
+"""
+Handles the feature engineering strategies for the dataset.
+"""
+
 import pandas as pd
 from abc import ABC, abstractmethod
 

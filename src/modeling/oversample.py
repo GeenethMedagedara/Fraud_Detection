@@ -1,3 +1,7 @@
+"""
+Handles the prediction and SHAP explanation generation.
+"""
+
 from imblearn.over_sampling import SMOTE
 from abc import ABC, abstractmethod
 

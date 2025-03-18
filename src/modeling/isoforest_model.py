@@ -1,3 +1,7 @@
+"""
+Handles the prediction and SHAP explanation generation.
+"""
+
 import joblib
 from sklearn.ensemble import IsolationForest
 from sklearn.metrics import classification_report

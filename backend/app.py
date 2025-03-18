@@ -1,3 +1,7 @@
+"""
+Handles the prediction and SHAP explanation generation.
+"""
+
 from flask import Flask, request, jsonify
 import numpy as np
 from flask_cors import CORS

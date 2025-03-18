@@ -1,3 +1,7 @@
+"""
+Handles the prediction and SHAP explanation generation.
+"""
+
 from sklearn.model_selection import GridSearchCV
 from xgboost import XGBClassifier
 from abc import ABC, abstractmethod
